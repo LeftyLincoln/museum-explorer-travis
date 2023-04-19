@@ -2,9 +2,14 @@
 
 ## Abstract
 Night at the Dawg Museum is an app for users who want to browse through pictures of dogs. The app allows a user to look through pictures of dogs on the main page. When the user want to narrow their search, they can go to the exhibit page where they can choose between five different breeds of dogs. Once they select one breed, they will be taken to a page where the they can browse many pictures of that one type of breed. The user can save the picture that they like and look at it later in the saved dog page. The user also has the option to delete pictures from they pictures that they've saved
-
 ***
 
+### Contributors:
+- [Travis Parks](https://github.com/LeftyLincoln/)
+- [Lexye Jordan](https://github.com/Lexyful)
+- [Sophie LaBelle](https://github.com/sophielabelle)
+
+***
 ### Technologies Used:
 - JavaScript
 - HTML
@@ -33,12 +38,6 @@ Night at the Dawg Museum is an app for users who want to browse through pictures
 Completed as part of the Turing School of Software Development 2211 FE Mod 3 curriculum
 
 Approximate hours to completion: 35
-***
-
-### Contributors:
-- [Lexye Jordan](https://github.com/Lexyful)
-- [Sophie LaBelle](https://github.com/sophielabelle)
-- [Travis Parks](https://github.com/LeftyLincoln/)
 ***
 
 ### Learning Goals:
